@@ -6,4 +6,4 @@ def test():
 
 if __name__ == '__main__':
     test()
-    get_number(3)
+    get_number(4)
