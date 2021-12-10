@@ -2,7 +2,7 @@ from forimport import get_number
 
 
 def test():
-    print('HellOUIN_world')
+    print('Ah_world')
 
 if __name__ == '__main__':
     test()
