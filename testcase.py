@@ -2,8 +2,8 @@ from forimport import get_number
 
 
 def test():
-    print('Hello_world')
+    print('HellOUIN_world')
 
 if __name__ == '__main__':
     test()
-    get_number(3)
+    get_number(4)
