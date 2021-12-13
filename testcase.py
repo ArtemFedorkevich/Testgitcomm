@@ -1,9 +1,8 @@
 from forimport import get_number
 
-print("Print")
+
 def test():
-    print('After_stash')
-    print("Something")
+    print("Something to stash")
 if __name__ == '__main__':
     test()
     get_number(4)
